@@ -22,7 +22,7 @@ title: Homepage
 
 # Research
 
-## Cut-Method for phase change
+## Cut-Cell Method for phase change
 
 ## Numerical methods for sparse linear systems
 
